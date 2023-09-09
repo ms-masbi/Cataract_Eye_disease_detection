@@ -1,0 +1,11 @@
+flask
+setuptools
+wheel
+flask_sqlalchemy
+tensorflow
+numpy
+gunicorn
+pandas
+keras
+opencv-python
+roboflow
